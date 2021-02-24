@@ -1,0 +1,32 @@
+module DataMem32(Adr, Wrd, Rd, MemWr, MemR, Clk);
+  input [31:0] Adr, Wrd;
+  input MemWr, MemR, Clk;
+  output reg [31:0] Rd;
+  
+  reg [31:0] MEM[255:0];  // 256 words
+
+  integer i;
+  
+  initial
+  begin
+    Rd <= 0;
+    for (i = 255; i >= 0; i = i - 1) 
+    begin
+       MEM[i] = i;
+    end
+  end
+
+  always @(posedge Clk)
+  begin
+    if (MemWr == 1'b1) 
+    begin
+      MEM[Adr] <= Wrd;
+    end
+    
+    if (MemR == 1'b1)
+    begin
+      Rd <= MEM[Adr];
+    end
+end
+  
+endmodule

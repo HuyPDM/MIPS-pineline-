@@ -1,0 +1,85 @@
+{D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/ControlUnit.v} {1 {vlog -work work {D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/ControlUnit.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ControlUnit
+
+Top level modules:
+	ControlUnit
+
+} {} {}} {D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/ALU.v} {1 {vlog -work work {D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/ALU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/register.v} {1 {vlog -work work {D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/register.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} {D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Mux21.v} {1 {vlog -work work {D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Mux21.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux21
+
+Top level modules:
+	Mux21
+
+} {} {}} {D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Extend16to32.v} {1 {vlog -work work {D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Extend16to32.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Extend16to32
+
+Top level modules:
+	Extend16to32
+
+} {} {}} {D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Testbench.v} {1 {vlog -work work {D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Testbench.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Lab6_testbench
+
+Top level modules:
+	Lab6_testbench
+
+} {} {}} {D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Mux21_5bit.v} {1 {vlog -work work {D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Mux21_5bit.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux21_5bit
+
+Top level modules:
+	Mux21_5bit
+
+} {} {}} {D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Mux21_32bit.v} {1 {vlog -work work {D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Mux21_32bit.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux21_32bit
+
+Top level modules:
+	Mux21_32bit
+
+} {} {}} {D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/ALUControlUnit.v} {1 {vlog -work work {D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/ALUControlUnit.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALUControlUnit
+
+Top level modules:
+	ALUControlUnit
+
+} {} {}} {D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Lab6.v} {1 {vlog -work work {D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Lab6.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Lab6
+
+Top level modules:
+	Lab6
+
+} {} {}} {D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/DataMem32.v} {1 {vlog -work work {D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/DataMem32.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DataMem32
+
+Top level modules:
+	DataMem32
+
+} {} {}} {D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/ShiftLeft2_32bit.v} {1 {vlog -work work {D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/ShiftLeft2_32bit.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ShiftLeft2_32bit
+
+Top level modules:
+	ShiftLeft2_32bit
+
+} {} {}}

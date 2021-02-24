@@ -1,0 +1,265 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vALU
+Z1 !s100 _4FQ_3;3][WHCDQ6NLEPR2
+Z2 IH3HQ_cegPWeKJ0^;0A3J83
+Z3 VhY3;>6?`0kBNi5IkUNhFE3
+Z4 dD:\Learns\Giao trinh\Season 5\Thuc hanh\TKHTSVHDL\Lab6
+Z5 w1575689915
+Z6 8D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/ALU.v
+Z7 FD:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/ALU.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/ALU.v|
+Z10 o-work work -O0
+Z11 n@a@l@u
+Z12 !s108 1576114445.977000
+Z13 !s107 D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALUControlUnit
+Z14 !s100 0XRT2n:EnkQK_2FhMW8]<2
+Z15 IVWSMD<HTK]0V:jj:lP?Jn1
+Z16 VbnJP_b`LD?dk:M_0Yl16k0
+R4
+Z17 w1575690962
+Z18 8D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/ALUControlUnit.v
+Z19 FD:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/ALUControlUnit.v
+L0 1
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/ALUControlUnit.v|
+R10
+Z21 n@a@l@u@control@unit
+Z22 !s108 1576114445.274000
+Z23 !s107 D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/ALUControlUnit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vControlUnit
+Z24 !s100 M@J]h2GMCOUNkek>lmgEh3
+Z25 I5E<>O]<JiL76nnHz?ZB2H3
+Z26 Vh>:PlflAWYH5llQLcM9Wd2
+R4
+Z27 w1575457215
+Z28 8D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/ControlUnit.v
+Z29 FD:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/ControlUnit.v
+L0 1
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/ControlUnit.v|
+R10
+Z31 n@control@unit
+Z32 !s108 1576114445.530000
+Z33 !s107 D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/ControlUnit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCounter_testbench
+Z34 IcEBBf[IZoR03@CiX7Z?fH0
+Z35 VI@RoVKb7HA?];DUg_iDbT0
+R4
+Z36 w1575708674
+Z37 8D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Testbench.v
+Z38 FD:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Testbench.v
+L0 7
+R8
+r1
+31
+Z39 !s90 -reportprogress|300|-work|work|D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Testbench.v|
+R10
+Z40 n@counter_testbench
+Z41 !s100 M=[@GKYod`io5[Y]gML]D0
+Z42 !s108 1575708674.240000
+Z43 !s107 D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Testbench.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDataMem32
+Z44 !s100 Vlh0:>GIidE_TBBOLLPI>0
+Z45 ILgeZPhkj:iaaLJ20TPY9G0
+Z46 V@2Q?H1KAON2=JZY>DhCof2
+R4
+Z47 w1575714540
+Z48 8D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/DataMem32.v
+Z49 FD:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/DataMem32.v
+L0 1
+R8
+r1
+31
+Z50 !s90 -reportprogress|300|-work|work|D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/DataMem32.v|
+R10
+Z51 n@data@mem32
+Z52 !s108 1576114446.179000
+Z53 !s107 D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/DataMem32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vExtend16to32
+Z54 !s100 C_PA4E1:d;U0lGY:hLYM>2
+Z55 IB0cjOdiT5Ad=9B6R<HgP:3
+Z56 VF;RXUmPcQJGkO:06AECHS1
+R4
+Z57 w1575698514
+Z58 8D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Extend16to32.v
+Z59 FD:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Extend16to32.v
+L0 1
+R8
+r1
+31
+Z60 !s90 -reportprogress|300|-work|work|D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Extend16to32.v|
+R10
+Z61 n@extend16to32
+Z62 !s108 1576114446.658000
+Z63 !s107 D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Extend16to32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vLab6
+Z64 !s100 jjB6PfQEP@oLfKBAW2:R:1
+Z65 IQ_`9>kYKjOTU5I7TZ6NX71
+Z66 VKb2E_U7^NMY[`[DGK6kkK1
+R4
+Z67 w1575733239
+Z68 8D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Lab6.v
+Z69 FD:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Lab6.v
+L0 1
+R8
+r1
+31
+Z70 !s90 -reportprogress|300|-work|work|D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Lab6.v|
+R10
+Z71 n@lab6
+Z72 !s108 1576114444.998000
+Z73 !s107 D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Lab6.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vLab6_testbench
+Z74 !s100 JDfADRPbOYUTi>RjU4VH10
+Z75 ImAJGJngS51iEg>n5S=C;o0
+Z76 VDc=^iJcL@<nm0Si6fne>c1
+R4
+Z77 w1575796290
+R37
+R38
+L0 7
+R8
+r1
+31
+R39
+R10
+Z78 n@lab6_testbench
+Z79 !s108 1576114445.761000
+R43
+!i10b 1
+!s85 0
+!s101 -O0
+vMux21
+Z80 !s100 5^Vg5g>F>KUR@0jGaDS]l3
+Z81 In>2^0?:jUS^9S;9E2GPD[2
+Z82 Ve8Fb54RXiEONXbBIKLHjY2
+R4
+Z83 w1571457169
+Z84 8D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Mux21.v
+Z85 FD:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Mux21.v
+L0 1
+R8
+r1
+31
+Z86 !s90 -reportprogress|300|-work|work|D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Mux21.v|
+R10
+Z87 n@mux21
+Z88 !s108 1576114446.887000
+Z89 !s107 D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Mux21.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMux21_32bit
+Z90 !s100 ilFa;mafK6nz:8_F`H6BM3
+Z91 I@4aizJh8RoJmY3SG;JcOb3
+Z92 VoI2Le3L78jSn>UG`C;OLF2
+R4
+Z93 w1574132993
+Z94 8D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Mux21_32bit.v
+Z95 FD:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Mux21_32bit.v
+L0 1
+R8
+r1
+31
+Z96 !s90 -reportprogress|300|-work|work|D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Mux21_32bit.v|
+R10
+Z97 n@mux21_32bit
+!i10b 1
+!s85 0
+Z98 !s108 1576114447.332000
+Z99 !s107 D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Mux21_32bit.v|
+!s101 -O0
+vMux21_5bit
+Z100 !s100 b1RLoe_DW0VSW3INDdY2k2
+Z101 IWNX[Qmi:d92]Cd:hmm`?52
+Z102 V:]PlWffN;6fioh:[MO:Bh0
+R4
+Z103 w1574132290
+Z104 8D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Mux21_5bit.v
+Z105 FD:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Mux21_5bit.v
+L0 1
+R8
+r1
+31
+Z106 !s90 -reportprogress|300|-work|work|D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Mux21_5bit.v|
+R10
+Z107 n@mux21_5bit
+Z108 !s108 1576114447.090000
+Z109 !s107 D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/Mux21_5bit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegister
+Z110 !s100 Q2<WY74O[oJ]Sg?7e8Ih<0
+Z111 I>Hf`bWX]5M98=BO6;TP=j1
+Z112 VR3<nR;Ed]TzLbKkeiI^RI3
+R4
+Z113 w1575794224
+Z114 8D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/register.v
+Z115 FD:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/register.v
+L0 1
+R8
+r1
+31
+Z116 !s90 -reportprogress|300|-work|work|D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/register.v|
+R10
+Z117 n@register
+Z118 !s108 1576114446.424000
+Z119 !s107 D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/register.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vShiftLeft2_32bit
+!i10b 1
+Z120 !s100 UbCi6EYf@oE0U`gS5mkU@3
+Z121 I<Smjnoi^:fT5gH`WD[f7J3
+Z122 VkCC^izE3GB@@DKIlPfVcj2
+R4
+Z123 w1574134674
+Z124 8D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/ShiftLeft2_32bit.v
+Z125 FD:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/ShiftLeft2_32bit.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1576114447.571000
+!s107 D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/ShiftLeft2_32bit.v|
+Z126 !s90 -reportprogress|300|-work|work|D:/Learns/Giao trinh/Season 5/Thuc hanh/TKHTSVHDL/Lab6/ShiftLeft2_32bit.v|
+!s101 -O0
+R10
+Z127 n@shift@left2_32bit
